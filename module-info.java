@@ -5,5 +5,5 @@
  * @author flore
  *
  */
-module CSC376 {
+module single_server_socket {
 }
